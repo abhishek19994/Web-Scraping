@@ -1,0 +1,2 @@
+Run python file as python3 main.py
+The only python file main.py requires input for no of pages to be scraped when run if input is not passed then by default it will scrap for all pages and return the outut in file1.csv
